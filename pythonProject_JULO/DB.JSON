@@ -1,0 +1,74 @@
+{
+  "deposits": [
+    {
+      "id": "a91146f1-c2c7-4f0e-8acc-0bb19fed82cf",
+      "deposited_by": "19e42ffc-7c15-42cf-8082-eee5e50f07db",
+      "status": "success",
+      "deposited_at": "2023-02-22 22:37:48",
+      "amount": "1000001",
+      "reference_id": "50535246-dcb2-4929-8cc9-004ea06f5241"
+    },
+    {
+      "id": "2f099e4b-f23e-4bd6-818b-dbce40305eca",
+      "deposited_by": "19e42ffc-7c15-42cf-8082-eee5e50f07db",
+      "status": "success",
+      "deposited_at": "2023-02-22 22:37:48",
+      "amount": "1000001",
+      "reference_id": "50535246-dcb2-4929-8cc9-004ea06f5241"
+    },
+    {
+      "id": "f04cab56-2f29-49c6-af31-bf2236cb0516",
+      "deposited_by": "19e42ffc-7c15-42cf-8082-eee5e50f07db",
+      "status": "success",
+      "deposited_at": "2023-02-22 22:37:49",
+      "amount": "1000001",
+      "reference_id": "50535246-dcb2-4929-8cc9-004ea06f5241"
+    },
+    {
+      "id": "7654b1eb-f2cb-450a-976b-d389f76ee272",
+      "deposited_by": "19e42ffc-7c15-42cf-8082-eee5e50f07db",
+      "status": "success",
+      "deposited_at": "2023-02-22 22:37:49",
+      "amount": "1000001",
+      "reference_id": "50535246-dcb2-4929-8cc9-004ea06f5241"
+    },
+    {
+      "id": "359251de-b1bb-4c89-a1a3-24cd4ab7d70a",
+      "deposited_by": "19e42ffc-7c15-42cf-8082-eee5e50f07db",
+      "status": "success",
+      "deposited_at": "2023-02-22 22:37:50",
+      "amount": "1000001",
+      "reference_id": "50535246-dcb2-4929-8cc9-004ea06f5241"
+    }
+  ],
+  "withdrawals": [],
+  "customer": [
+    {
+      "customer_xid": "ea0212d3-abd6-406f-8c67-868e814a2436",
+      "owned_by": "ea0212d3-abd6-406f-8c67-868e814a2436",
+      "token": "cb04f9f26632ad602f14acef21c58f58f6fe5fb55a",
+      "a1": "asdasd",
+      "status": "",
+      "enabled_at": "",
+      "balance": "0"
+    },
+    {
+      "customer_xid": "1112345",
+      "owned_by": "1112345",
+      "token": "db826e33932a48aeb80fdf90010297b9",
+      "a1": "asdasd",
+      "status": "",
+      "enabled_at": "",
+      "balance": "0"
+    },
+    {
+      "customer_xid": "111234521",
+      "owned_by": "19e42ffc-7c15-42cf-8082-eee5e50f07db",
+      "token": "6b3f7dc70abe8aed3e56658b86fa508b472bf238",
+      "a1": "asdasd",
+      "status": "enabled",
+      "enabled_at": "2023-02-22 22:37:22",
+      "balance": "5000005"
+    }
+  ]
+}

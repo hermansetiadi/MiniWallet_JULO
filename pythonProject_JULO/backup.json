@@ -1,0 +1,91 @@
+{
+  "deposits": [
+    {
+      "id": "9973c81c-038f-46b3-80d3-a94155864cd6",
+      "deposited_by": "4c4d7d61f-b702-44a8-af97-5dbdafa96551",
+      "status": "success",
+      "deposited_at": "2023-02-22 21:15:31",
+      "amount": "100000",
+      "reference_id": "50535246-dcb2-4929-8cc9-004ea06f5241"
+    },
+    {
+      "id": "0a4161d1-09fb-46f2-aae3-b3dba4d6b0b8",
+      "deposited_by": "4c4d7d61f-b702-44a8-af97-5dbdafa96551",
+      "status": "success",
+      "deposited_at": "2023-02-22 21:15:39",
+      "amount": "100000",
+      "reference_id": "50535246-dcb2-4929-8cc9-004ea06f5241"
+    },
+    {
+      "id": "dab36459-b3d6-4104-94b1-878d305004e5",
+      "deposited_by": "4c4d7d61f-b702-44a8-af97-5dbdafa96551",
+      "status": "success",
+      "deposited_at": "2023-02-22 21:15:40",
+      "amount": "100000",
+      "reference_id": "50535246-dcb2-4929-8cc9-004ea06f5241"
+    },
+    {
+      "id": "430c7154-533e-4e91-afa8-566ec7d2305d",
+      "deposited_by": "4c4d7d61f-b702-44a8-af97-5dbdafa96551",
+      "status": "success",
+      "deposited_at": "2023-02-22 21:15:41",
+      "amount": "100000",
+      "reference_id": "50535246-dcb2-4929-8cc9-004ea06f5241"
+    },
+    {
+      "id": "f6d85583-a9e5-4218-8e0e-5804ffc61d66",
+      "deposited_by": "4c4d7d61f-b702-44a8-af97-5dbdafa96551",
+      "status": "success",
+      "deposited_at": "2023-02-22 21:15:41",
+      "amount": "100000",
+      "reference_id": "50535246-dcb2-4929-8cc9-004ea06f5241"
+    },
+    {
+      "id": "8cf4a476-ffc0-4985-bb6e-c2dff79bd8bb",
+      "deposited_by": "4c4d7d61f-b702-44a8-af97-5dbdafa96551",
+      "status": "success",
+      "deposited_at": "2023-02-22 21:15:41",
+      "amount": "100000",
+      "reference_id": "50535246-dcb2-4929-8cc9-004ea06f5241"
+    }
+  ],
+  "withdrawals": [],
+  "customer": [
+    {
+      "customer_xid": "ea0212d3-abd6-406f-8c67-868e814a2436",
+      "owned_by": "1c4d7d61f-b702-44a8-af97-5dbdafa96551",
+      "token": "cb04f9f26632ad602f14acef21c58f58f6fe5fb55a",
+      "a1": "asdasd",
+      "status": "",
+      "enabled_at": "",
+      "balance": "0"
+    },
+    {
+      "customer_xid": "ea0212d3-abd6-406f-8c67-868e814a24361",
+      "owned_by": "2c4d7d61f-b702-44a8-af97-5dbdafa965511",
+      "token": "b941f5b2d110462db0fc07dda44d7966",
+      "a1": "asdasd",
+      "status": "",
+      "enabled_at": "",
+      "balance": "0"
+    },
+    {
+      "customer_xid": "ea0212d3-abd6-406f-8c67-868e1814a24361",
+      "owned_by": "3c4d7d61f-b702-44a8-af97-5dbdafa96551",
+      "token": "6012c29d458d4d418713c93d6a36241e",
+      "a1": "asdasd",
+      "status": "",
+      "enabled_at": "",
+      "balance": "0"
+    },
+    {
+      "customer_xid": "e1a0212d3-abd6-406f-8c67-868e1814a24361",
+      "owned_by": "4c4d7d61f-b702-44a8-af97-5dbdafa96551",
+      "token": "6b3f7dc70abe8aed3e56658b86fa508b472bf238",
+      "a1": "asdasd",
+      "status": "enabled",
+      "enabled_at": "2023-02-22 18:57:59",
+      "balance": "1400000"
+    }
+  ]
+}
