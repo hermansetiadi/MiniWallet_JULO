@@ -13,4 +13,4 @@ To Wrap Things Up, Some Things To Mention
 1. Created a http Server that opens on port 8989
 2. using Pycharm's Project
 3. there is a JSON database (DB.JSON) inside
-4. there is Postman Script For Testing
+4. there is Postman Script For Testing (Test JULO.postman_collection.json)
